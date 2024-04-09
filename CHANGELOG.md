@@ -1,5 +1,8 @@
 
 
+* fix: finished filled and stylized skills section (6e714a5)
+* fix: created empty structure of skills section (1515b21)
+
 * fix: finished stylized contact section (e1aac2e)
 * fix: stylized text of contact (6484543)
 * fix: added and stylized hr (5ada995)
