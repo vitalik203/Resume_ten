@@ -1,0 +1,33 @@
+{
+  "name": "resume_ten",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "release": "release-it"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vitalik203/Resume_ten.git"
+  },
+  "author": "vitalik_203",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vitalik203/Resume_ten/issues"
+  },
+  "homepage": "https://github.com/vitalik203/Resume_ten#readme",
+  "release-it": {
+    "github": {
+      "release": true
+    }
+  },
+  "devDependencies": {
+    "@commitlint/cli": "^19.2.1",
+    "@commitlint/config-conventional": "^19.1.0",
+    "release-it": "^17.1.1"
+  },
+  "dependencies": {
+    "@release-it/conventional-changelog": "^8.0.1"
+  }
+}
