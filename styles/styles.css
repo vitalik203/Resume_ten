@@ -15,6 +15,10 @@
 .wrapper-column:first-child {
   max-width: 200px;
 }
+.wrapper-column:first-child .about {
+  margin-left: 20px;
+  margin-top: 10px;
+}
 .wrapper-column:first-child .about_name {
   color: rgb(65, 64, 66);
   font-family: Circular Std;
