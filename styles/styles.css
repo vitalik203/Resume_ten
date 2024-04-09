@@ -1,3 +1,9 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
 .wrapper {
   width: 595px;
   height: 842px;
@@ -8,4 +14,38 @@
 
 .wrapper-column:first-child {
   max-width: 200px;
+}
+.wrapper-column:first-child .about_name {
+  color: rgb(65, 64, 66);
+  font-family: Circular Std;
+  font-size: 30px;
+  font-weight: 700;
+  line-height: 38px;
+  letter-spacing: 0%;
+  text-align: left;
+}
+.wrapper-column:first-child .about_proffession {
+  color: rgb(65, 64, 66);
+  font-family: Roboto;
+  font-size: 15px;
+  font-weight: 400;
+  line-height: 18px;
+  letter-spacing: 0%;
+  text-align: left;
+}
+.wrapper-column:first-child .about_photo {
+  display: block;
+  width: 132px;
+  height: 118px;
+  -o-object-fit: contain;
+     object-fit: contain;
+}
+.wrapper-column:first-child .your_description {
+  color: rgb(65, 64, 66);
+  font-family: Roboto;
+  font-size: 8px;
+  font-weight: 400;
+  line-height: 12px;
+  letter-spacing: 0%;
+  text-align: justify;
 }/*# sourceMappingURL=styles.css.map */
