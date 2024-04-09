@@ -1,5 +1,12 @@
 
 
+* fix: finished stylized contact section (e1aac2e)
+* fix: stylized text of contact (6484543)
+* fix: added and stylized hr (5ada995)
+* fix: filled the contact section (5a8cdba)
+* fix: created structure of contact section (1294548)
+* fix: fixed bug with name (no wrap) (f804ff9)
+
 * fix: added margins for elemnts inside about (between them) (50ae5a0)
 * fix: added margin for about section (4eb215b)
 * fix: added some position for certain elements (5cbacbf)
