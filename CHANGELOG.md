@@ -1,5 +1,14 @@
 
 
+* fix: added margins for elemnts inside about (between them) (50ae5a0)
+* fix: added margin for about section (4eb215b)
+* fix: added some position for certain elements (5cbacbf)
+* fix: added fonts, and stylized about section (0cf8998)
+* fix: filled about section (27c7dba)
+* fix: created epty structure of about section (8ed5872)
+* Merge pull request #2 from vitalik203/main (6c9a0d6)
+* Merge pull request #1 from vitalik203/develop (06b0526)
+
 * fix: added shell border, and inside were stylized flex elements (a70be8e)
 
 * fix: created wrapper shell, and inside were created two columns (46be8e1)
