@@ -10,6 +10,7 @@
   border: 2px solid gray;
   margin: 35px auto;
   display: flex;
+  background-color: rgb(253, 251, 247);
 }
 
 .wrapper-column:first-child {
@@ -27,8 +28,8 @@
   line-height: 38px;
   letter-spacing: 0%;
   text-align: center;
-  margin-left: 3px;
   margin-bottom: 5px;
+  white-space: nowrap;
 }
 .wrapper-column:first-child .about_proffession {
   color: rgb(65, 64, 66);
