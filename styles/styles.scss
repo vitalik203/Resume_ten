@@ -63,6 +63,8 @@
   //Contact section
   .contact {
     max-width: 180px;
+    margin-left: 20px;
+    margin-top: 25px;
   }
   .hr {
     content: "";
@@ -73,6 +75,7 @@
   }
   .title {
     display: flex;
+    column-gap: 10px;
   }
   .title_logo {
     margin: 5px 0;
@@ -94,7 +97,9 @@
   .contact_logo {
     display: block;
     margin: 5px auto;
-    width: 11px;
+    margin-left: 10px;
+    width: 9px;
+    height: 9px;
   }
   .contact_vertical {
     margin: 5px 0;
