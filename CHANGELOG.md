@@ -1,5 +1,9 @@
 
 
+* fix: finished filled and stylized education section (e783b30)
+* fix: created structure of education section (4255001)
+* fix: added title for education section (249981c)
+
 ## [0.1.0](https://github.com/nick-devs/001-add-a-changelog-to-any-project/compare/0.0.7...0.1.0) (2024-04-09)
 
 * fix: finished filled and stylized awards section (8cb243b)
