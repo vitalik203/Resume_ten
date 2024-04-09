@@ -1,5 +1,7 @@
 
 
+* fix: finished filled and stylized awards section (8cb243b)
+
 * fix: finished filled and stylized skills section (6e714a5)
 * fix: created empty structure of skills section (1515b21)
 
