@@ -207,4 +207,55 @@
   letter-spacing: 15%;
   text-align: left;
   margin: 5px 0;
+}
+.wrapper-column:last-child .educations_cover {
+  margin-top: 10px;
+}
+.wrapper-column:last-child .long-vertical {
+  position: absolute;
+  margin-left: 2px;
+  margin-top: 5px;
+  content: "";
+  width: 1px;
+  height: 112px;
+  background: rgb(65, 64, 66);
+}
+.wrapper-column:last-child .education_cover {
+  display: flex;
+  -moz-column-gap: 8px;
+       column-gap: 8px;
+  margin-bottom: 12px;
+}
+.wrapper-column:last-child .education_dot {
+  content: "";
+  width: 5px;
+  height: 5px;
+  background: rgb(65, 64, 66);
+  border-radius: 50%;
+  margin-top: 3px;
+}
+.wrapper-column:last-child .education_title {
+  color: rgb(65, 64, 66);
+  font-family: Circular Std;
+  font-size: 10px;
+  font-weight: 700;
+  line-height: 13px;
+  letter-spacing: 2%;
+  text-align: left;
+  margin-bottom: 5px;
+}
+.wrapper-column:last-child .education_list {
+  display: flex;
+  flex-direction: column;
+  row-gap: 4px;
+}
+.wrapper-column:last-child .education_list li {
+  color: rgb(65, 64, 66);
+  font-family: Roboto;
+  font-size: 8px;
+  font-weight: 400;
+  line-height: 9px;
+  letter-spacing: 0%;
+  text-align: left;
+  margin-left: 8px;
 }/*# sourceMappingURL=styles.css.map */
