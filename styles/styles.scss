@@ -59,4 +59,33 @@
     letter-spacing: 0%;
     text-align: justify;
   }
+
+  //Contact section
+  .contact {
+  }
+  .hr {
+    content: "";
+    width: 180px;
+    height: 1px;
+    background: rgb(65, 64, 66);
+    object-fit: contain;
+  }
+  .title {
+  }
+  .title_logo {
+  }
+  .title_text {
+  }
+  .contact-cover {
+  }
+  .contact_logo {
+  }
+  .contact_vertical {
+    content: "";
+    height: 13px;
+    width: 0.5px;
+    background: rgb(65, 64, 66);
+  }
+  .contact_text {
+  }
 }

@@ -59,4 +59,18 @@
   line-height: 12px;
   letter-spacing: 0%;
   text-align: justify;
+}
+.wrapper-column:first-child .hr {
+  content: "";
+  width: 180px;
+  height: 1px;
+  background: rgb(65, 64, 66);
+  -o-object-fit: contain;
+     object-fit: contain;
+}
+.wrapper-column:first-child .contact_vertical {
+  content: "";
+  height: 13px;
+  width: 0.5px;
+  background: rgb(65, 64, 66);
 }/*# sourceMappingURL=styles.css.map */
