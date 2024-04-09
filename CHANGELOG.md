@@ -1,5 +1,7 @@
 
 
+## [0.1.0](https://github.com/nick-devs/001-add-a-changelog-to-any-project/compare/0.0.7...0.1.0) (2024-04-09)
+
 * fix: finished filled and stylized awards section (8cb243b)
 
 * fix: finished filled and stylized skills section (6e714a5)
