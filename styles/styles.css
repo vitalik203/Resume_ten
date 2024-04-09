@@ -144,4 +144,37 @@
   line-height: 9px;
   letter-spacing: 0%;
   text-align: left;
+}
+.wrapper-column:first-child .awards {
+  margin-top: 25px;
+  margin-left: 20px;
+}
+.wrapper-column:first-child .awards_cover {
+  display: flex;
+  flex-direction: column;
+  row-gap: 14px;
+  margin-top: 8px;
+}
+.wrapper-column:first-child .award_cover {
+  display: flex;
+  flex-direction: column;
+  row-gap: 5px;
+}
+.wrapper-column:first-child .award_title {
+  color: rgb(65, 64, 66);
+  font-family: Roboto;
+  font-size: 10px;
+  font-weight: 400;
+  line-height: 12px;
+  letter-spacing: 0%;
+  text-align: left;
+}
+.wrapper-column:first-child .award_subtitle {
+  color: rgb(148, 147, 148);
+  font-family: Roboto;
+  font-size: 9px;
+  font-weight: 400;
+  line-height: 11px;
+  letter-spacing: 0%;
+  text-align: left;
 }/*# sourceMappingURL=styles.css.map */
