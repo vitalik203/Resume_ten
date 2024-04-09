@@ -1,5 +1,7 @@
 
 
+* fix: created wrapper shell, and inside were created two columns (46be8e1)
+
 ## 0.0.1 (2024-04-09)
 
 
