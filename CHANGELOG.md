@@ -1,5 +1,9 @@
 
 
+* fix: completed filling experiences sections (1d12b9a)
+* fix: stylized one of experience section element (1583719)
+* fix: created experiences structure (aebc0d3)
+
 * fix: finished filled and stylized education section (e783b30)
 * fix: created structure of education section (4255001)
 * fix: added title for education section (249981c)
