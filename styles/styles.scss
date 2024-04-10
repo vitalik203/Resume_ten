@@ -263,4 +263,58 @@
       margin-left: 8px;
     }
   }
+
+  //Experience
+  .experience {
+    margin-top: 25px;
+  }
+  .experiences-cover {
+    .long-vertical {
+      margin-top: 10px;
+    }
+  }
+  .experience_cover {
+    display: flex;
+    flex-shrink: unset;
+    max-width: 272px;
+    .education_dot {
+      flex-shrink: 0;
+      margin-top: 10px;
+    }
+  }
+  .experience_content {
+  }
+  .experience_title {
+    color: rgb(65, 64, 66);
+    font-family: Circular Std;
+    font-size: 11px;
+    font-weight: 700;
+    line-height: 14px;
+    letter-spacing: 2%;
+    text-align: left;
+    margin-left: 5px;
+    margin-top: 10px;
+  }
+  .experience_subtitle {
+    color: rgb(148, 147, 148);
+    font-family: Roboto;
+    font-size: 8px;
+    font-weight: 400;
+    line-height: 140%;
+    letter-spacing: 0%;
+    text-align: left;
+    margin-left: 7px;
+  }
+  .experience_list {
+    margin-left: 15px;
+    li {
+      color: rgb(65, 64, 66);
+      font-family: Roboto;
+      font-size: 9px;
+      font-weight: 400;
+      line-height: 140%;
+      letter-spacing: 0%;
+      text-align: left;
+    }
+  }
 }
