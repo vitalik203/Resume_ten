@@ -1,5 +1,11 @@
 
 
+* fix: finished certification section (e73488e)
+* removed unset selectors (bea853f)
+* fix: finished stylized education section (a9c1381)
+* fix: fixed bugs with experience and certification icons (e3b1ece)
+* fix: created structure of certification section (eb45056)
+
 * fix: completed filling experiences sections (1d12b9a)
 * fix: stylized one of experience section element (1583719)
 * fix: created experiences structure (aebc0d3)
