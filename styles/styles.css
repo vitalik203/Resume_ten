@@ -264,7 +264,7 @@
 }
 .wrapper-column:last-child .experiences-cover .long-vertical {
   margin-top: 13px;
-  height: 265px;
+  height: 335px;
 }
 .wrapper-column:last-child .experience_cover {
   display: flex;
@@ -307,6 +307,7 @@
   line-height: 140%;
   letter-spacing: 0%;
   text-align: left;
+  margin: 5px 0;
 }
 .wrapper-column:last-child .certification {
   margin-top: 25px;
