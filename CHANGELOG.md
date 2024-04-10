@@ -1,5 +1,7 @@
 
 
+## [0.2.0](https://github.com/nick-devs/001-add-a-changelog-to-any-project/compare/0.1.3...0.2.0) (2024-04-10)
+
 * fix: finished certification section (e73488e)
 * removed unset selectors (bea853f)
 * fix: finished stylized education section (a9c1381)
