@@ -314,7 +314,6 @@
 .wrapper-column:last-child .certifications_cover {
   display: flex;
   flex-direction: column;
-  row-gap: 10px;
 }
 .wrapper-column:last-child .long-vertical {
   margin-top: 13px;
@@ -330,6 +329,13 @@
   display: flex;
   flex-direction: column;
   row-gap: 3px;
+  margin-top: 2px;
+}
+.wrapper-column:last-child .certification_content {
+  display: flex;
+  flex-direction: column;
+  row-gap: 3px;
+  margin-top: 2px;
 }
 .wrapper-column:last-child .certification_title {
   color: rgb(65, 64, 66);
